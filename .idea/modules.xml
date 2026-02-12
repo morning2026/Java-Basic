@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Basic.iml" filepath="$PROJECT_DIR$/Java Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-Oriented/Object-Oriented.iml" filepath="$PROJECT_DIR$/Object-Oriented/Object-Oriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+    </modules>
+  </component>
+</project>
